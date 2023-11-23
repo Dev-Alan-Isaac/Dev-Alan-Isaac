@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SneakyB00m (Alan Isaac)
-- 👀 I’m interested in ... Programming, Gaming, Cybersecurity, Software/Hardware
+- 👋 Greetings, I am Alan Isaac, known in the digital realm as @Dev-Alan-Isaac. I also operate under the secondary account, @sneakyB00m.
+- 👀 My primary areas of interest encompass Programming, Gaming, Cybersecurity, along with both Software and Hardware technologies.
 - 🌱 I’m currently learning ... Python, Entity Framework, Bootstrap
 - 📫 How to reach me ... contactalanisaac@gmail.com
-- 🔣 I Speak ... Spanish / English 
+- 🔣 Spanish is my native language, and I have a conversational level of fluency in English.
 - 🖥️ Languages and Miscellaneous ... C, C++, C#, Java, MySQL, ASM, Html5, Css
 - 📜 Certificate MICAI [Mexican International Conference on Artificial Intelligence] 2021, English Certification from Cambridge University 

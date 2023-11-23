@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Dev-Alan-Isaac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dev-Alan-Isaac/Dev-Alan-Isaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @SneakyB00m (Alan Isaac)
+👀 I’m interested in ... Programming, Gaming, Cybersecurity, Software/Hardware
+🌱 I’m currently learning ... Python
+📫 How to reach me ... contactalanisaac@gmail.com
+🔣 I Speak ... Spanish / English
+🖥️ Languages and Miscellaneous ... C, C++, C#, Java, MySQL, ASM, Html5, Css
+📜 Certificate MICAI [Mexican International Conference on Artificial Intelligence] 2021, English Certification from Cambridge University

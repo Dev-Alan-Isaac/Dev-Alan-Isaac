@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SneakyB00m (Alan Isaac)
 - 👀 I’m interested in ... Programming, Gaming, Cybersecurity, Software/Hardware
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Entity Framework, Bootstrap
 - 📫 How to reach me ... contactalanisaac@gmail.com
 - 🔣 I Speak ... Spanish / English 
 - 🖥️ Languages and Miscellaneous ... C, C++, C#, Java, MySQL, ASM, Html5, Css

@@ -4,6 +4,7 @@
 - 📫 For any inquiries or further correspondence, I can be reached at contactalanisaac@gmail.com.
 - 🔣 Spanish is my native language, and I have a conversational level of fluency in English.
 - 🖥️ I possess proficiency in a diverse range of languages and technologies, including C, C++, C#, Java, MySQL, ASM, HTML5, and CSS.
-- In addition to my programming skills, I am also adept in practical applications such as soldering and the use of testing devices like the Fluke for UTP cable testing.
-- My technical expertise extends to 3D printing, laser engraving, and CNC machine operation.
-- 📜 I hold several notable certifications that attest to my skills and knowledge. These include a certificate from the Mexican International Conference on Artificial Intelligence (MICAI) in 2021, an English Certification from Cambridge University, and two additional certificates in Cybersecurity and Ethical Hacking.
+  - In addition to my programming skills, I am also adept in practical applications such as soldering and the use of testing devices like the Fluke for UTP cable testing.
+  - My technical expertise extends to 3D printing, laser engraving, and CNC machine operation.
+- 📜 I hold several notable certifications that attest to my skills and knowledge.
+  - These include a certificate from the Mexican International Conference on Artificial Intelligence (MICAI) in 2021, an English Certification from Cambridge University, and two additional certificates in Cybersecurity and Ethical Hacking.

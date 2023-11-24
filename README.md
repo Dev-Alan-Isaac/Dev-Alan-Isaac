@@ -1,4 +1,4 @@
-- 👋 Greetings, I am Alan Isaac, known in the digital realm as @Dev-Alan-Isaac. I also operate under the secondary account, @sneakyB00m.
+- 👋 Greetings, I am Alan Isaac, known in the digital realm of github as @Dev-Alan-Isaac. I also operate under the secondary account, @sneakyB00m.
 - 👀 My primary areas of interest encompass Programming, Gaming, Cybersecurity, along with both Software and Hardware technologies.
 - 🌱 I am presently expanding my knowledge and skills in Python, Entity Framework, and Bootstrap.
 - 📫 For any inquiries or further correspondence, I can be reached at contactalanisaac@gmail.com.

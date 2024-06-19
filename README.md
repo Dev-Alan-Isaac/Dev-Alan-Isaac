@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I like to tinker a lot with hardware and software**
   
-<img align="center" alt="code" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

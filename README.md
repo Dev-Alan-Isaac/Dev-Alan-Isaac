@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Isaac</h1>
 <h3 align="center">A passionate full-stacked developer from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-alan-isaac" alt="dev-alan-isaac" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-alan-isaac&label=Profile%20views&color=0e75b6&style=flat" alt="dev-alan-isaac" /> </p>
 
 - 🌱 I’m currently learning **Bootstrap, Python**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **contactalanisaac@gmail.com**
 
 - ⚡ Fun fact **I like to tinker a lot with hardware and software**
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

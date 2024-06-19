@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Isaac</h1>
 <h3 align="center">A passionate full-stacked developer from Mexico</h3>
 
-<img align="center" alt="code" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-alan-isaac&label=Profile%20views&color=0e75b6&style=flat" alt="dev-alan-isaac" /> </p>
 
@@ -16,6 +15,8 @@
 - 📫 How to reach me **contactalanisaac@gmail.com**
 
 - ⚡ Fun fact **I like to tinker a lot with hardware and software**
+  
+<img align="center" alt="code" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

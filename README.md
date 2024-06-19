@@ -10,8 +10,6 @@
 
 - 📝 I make some articles on my journey as a JR. Software Developer [https://sheepysnet.wordpress.com/](https://sheepysnet.wordpress.com/)
 
-<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
 - 💬 Ask me about **SQL, MySQL, C++, C#**
 
 - 📫 How to reach me **contactalanisaac@gmail.com**

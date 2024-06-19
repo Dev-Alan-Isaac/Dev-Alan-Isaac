@@ -10,14 +10,14 @@
 
 - 📝 I make some articles on my journey as a JR. Software Developer [https://sheepysnet.wordpress.com/](https://sheepysnet.wordpress.com/)
 
+<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
 - 💬 Ask me about **SQL, MySQL, C++, C#**
 
 - 📫 How to reach me **contactalanisaac@gmail.com**
 
 - ⚡ Fun fact **I like to tinker a lot with hardware and software**
   
-<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

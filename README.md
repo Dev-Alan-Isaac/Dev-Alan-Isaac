@@ -13,7 +13,7 @@ I've been learning to code for the last past 8 years. I started with C++, but I 
 * 🚀  I'm currently working on [Tool Kit](http://github.com/Dev-Alan-Isaac/Project-Filter)
 * 🧠  I'm learning Python and a framework Bootstrap
 * 🤝  I'm open to collaborating on Anything related to free to use software
-* 📜  I owned multiple certificates [MICAI] 2021,  English Certification [B1] 2010 and [C2] 2022, Certification on ISO 27001 and Ethical hacking Aug 2023, Jan and May 2024
+* 📜  I owned multiple certificates [MICAI] 2021, English [B1] 2010 and [C2] 2022 from Cambridge University, ISO 27001 and Ethical hacking Aug 2023, Jan and May 2024
 * ⚡  I like to tinker a lot with hardware and software
 
 ### Backend

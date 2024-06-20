@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alan Isaac
 ==================================================================================================================================
 
-A passionate full-stacked developer from Mexico
+A passionate full-stack developer from Mexico
 -----------------------------------------------
 
 I've been learning to code for the last past 8 years. I started with C++, but I found my passion in backend development

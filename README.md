@@ -12,7 +12,7 @@ I've been learning to code for the last past 8 years. I started with C++, but I 
 * ✉️  You can contact me at [contactalanisaac@gmail.com](mailto:contactalanisaac@gmail.com)
 * 🚀  I'm currently working on [Tool Kit](http://github.com/Dev-Alan-Isaac/Project-Filter) as a personal project
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Anything related to free to use software
+* 🤝  I'm open to collaborating on anything related to opensource
 * 📜  I owned multiple certificates [MICAI] 2021, English [B1] 2010 and [C2] 2022 from Cambridge University, ISO 27001 and Ethical hacking Aug 2023, Jan and May 2024
 * ⚡  I like to tinker a lot with hardware and software
 

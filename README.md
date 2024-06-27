@@ -13,7 +13,7 @@ I've been learning to code for the last past 8 years. I started with C++, but I 
 * 🚀  I'm currently working on [Tool Kit](https://github.com/SneakyB00m/Project-Filter) as a personal project
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on anything related to opensource
-* 📜  I owned multiple certificates [MICAI] 2021, English [B1] 2010 and [C2] 2022, ISO 27001 and Ethical hacking Aug 2023, Jan and May 2024
+* 📜  I owned multiple certificates [MICAI] 2021, English [B1] 2010 and [C2] 2022, ISO 27001 and Ethical Hacking 2023, 2024
 * ⚡  I like to tinker a lot with hardware and software
 
 ### Backend

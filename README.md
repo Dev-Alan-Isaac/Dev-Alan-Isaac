@@ -6,8 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate full-stack developer from Mexico
 -----------------------------------------------
 
-I've been learning to code for the last past 8 years. I started with C++, but I found my passion in backend development
-
+I've been learning to code for the last past 8 years. I started with C++, but I found my passion in backend and frontend
 * 🌍  I'm based in Mexico Aguascalientes
 * ✉️  You can contact me at [contactalanisaac@gmail.com](mailto:contactalanisaac@gmail.com)
 * 🚀  I'm currently working on [Tool Kit](https://github.com/SneakyB00m/Project-Filter) as a personal project
